@@ -33,7 +33,7 @@ then
    zip=$(echo $res | jq '.zip' -r)
    echo "ZIP CODE : $zip"
    isp=$(echo $res | jq '.isp' -r)
-   echo "YOUR ISP : $isp" 
+   echo "ISP : $isp" 
    org=$(echo $res | jq '.org' -r)
    echo "Organization : $org" 
    as=$(echo $res | jq '.as' -r)
