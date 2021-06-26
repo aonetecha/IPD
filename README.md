@@ -2,6 +2,8 @@
 IPD - ip to details.It is very easy to use
 
 **sudo apt update**
+
+
 **sudo apt-get install jq**
 
 ![1](https://user-images.githubusercontent.com/85815644/123510415-3754a300-d630-11eb-9809-d6e7b9504f16.png)
